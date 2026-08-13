@@ -45,4 +45,4 @@
 
 This document is provided for educational and defensive security purposes. It does not constitute legal advice. The indicators contained herein were observed on the stated date and may be rotated, reused, or repurposed by the operators at any time. Independently verify all indicators before operational use.
 
-**Analyst note:** This case is part of an active law-enforcement investigation in the Philippines (NBI, per public reporting as of August 2026). When publishing, consider coordinating with or citing official statements rather than publishing raw infrastructure details that could alert the operators.
+**Investigation status:** This case is associated with an active law-enforcement investigation in the Philippines (NBI, per public reporting as of August 2026). Readers should refer to official NBI and MMDA statements for authoritative updates.
